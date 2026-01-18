@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../Longest Substring Without Repeating/Longest Substring Without Repeating.csproj" Id="87188917-e18f-4665-8ad8-a9e1dec73035" />
   <Project Path="LongestSubstringWithoutRepeatingCharacters.csproj" />
 </Solution>
